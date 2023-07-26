@@ -31,6 +31,10 @@
 *.out
 *.app
 
-.vs
-.cmake-build-debug
-.out
+# Build folders
+build/
+
+# Cache/IDE folders
+.cache/
+.vscode/
+.idea/
